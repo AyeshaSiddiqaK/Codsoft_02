@@ -1,26 +1,26 @@
-# Personal Portfolio Website
+# ✨ Personal Portfolio Website
 
 Welcome to my **Personal Portfolio Website** built with **HTML** and **CSS**. This project showcases my profile, skills, projects, and contact details in a clean and modern layout to represent my digital presence.
 
->  **This is CodSoft Web Development Internship - Task 2**
+> ✅ **This is CodSoft Web Development Internship - Task 2**
 
 ---
 
-## Features
+## ✨ Features
 
-- Profile section with name, title, and short intro
-- Skills & tools used
-- Project showcase with live and GitHub links
-- Contact form or social media links
-- Clean responsive design
-- Dark mode toggle (optional enhancement)
+- 👤 Profile section with name, title, and short intro
+- 🛠️ Skills & tools used
+- 📂 Project showcase with live and GitHub links
+- 📬 Contact form or social media links
+- 💡 Clean responsive design
+- 🌙 Dark mode toggle (optional enhancement)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3**
+- **CSS**
 
 
 ---
